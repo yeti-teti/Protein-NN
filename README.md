@@ -1,1 +1,4 @@
 # Protein-NN
+
+- GNN
+- Transformer
